@@ -2,7 +2,10 @@
 
 <br/>
 
-<sub>FRONTEND</sub>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/─────────────────%20Frontend%20─────────────────-0d1117?style=flat-square&labelColor=0d1117&color=0d1117" />
+  <img src="https://img.shields.io/badge/─────────────────%20Frontend%20─────────────────-ffffff?style=flat-square&labelColor=ffffff&color=ffffff" />
+</picture>
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
@@ -12,7 +15,12 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-<sub>BACKEND</sub>
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/──────────────────%20Backend%20──────────────────-0d1117?style=flat-square&labelColor=0d1117&color=0d1117" />
+  <img src="https://img.shields.io/badge/──────────────────%20Backend%20──────────────────-ffffff?style=flat-square&labelColor=ffffff&color=ffffff" />
+</picture>
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-404D59?style=flat-square)
@@ -20,14 +28,24 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
 
-<sub>DATABASE</sub>
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/──────────────────%20Database%20──────────────────-0d1117?style=flat-square&labelColor=0d1117&color=0d1117" />
+  <img src="https://img.shields.io/badge/──────────────────%20Database%20──────────────────-ffffff?style=flat-square&labelColor=ffffff&color=ffffff" />
+</picture>
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
-<sub>TOOLING</sub>
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/───────────────────%20Tools%20───────────────────-0d1117?style=flat-square&labelColor=0d1117&color=0d1117" />
+  <img src="https://img.shields.io/badge/───────────────────%20Tools%20───────────────────-ffffff?style=flat-square&labelColor=ffffff&color=ffffff" />
+</picture>
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
